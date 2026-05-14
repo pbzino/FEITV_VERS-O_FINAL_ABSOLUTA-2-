@@ -1,0 +1,100 @@
+1|The Dark Knight|Christopher Nolan|2008|Ação, Drama|152|Batman enfrenta o Coringa em Gotham City.|0
+2|Interstellar|Christopher Nolan|2014|Ficção Científica, Drama|169|Astronautas viajam pelo espaço em busca de um novo lar para a humanidade.|0
+3|Parasita|Bong Joon-ho|2019|Drama, Suspense|132|Uma família pobre se infiltra na vida de uma família rica com consequências inesperadas.|0
+4|Breaking Bad|Vince Gilligan|2008|Drama, Crime|N/A|Um professor de química se torna fabricante de metanfetamina após ser diagnosticado com câncer.|0
+5|Stranger Things|Duffer Brothers|2016|Ficção Científica, Terror|N/A|Um grupo de crianças enfrenta forças sobrenaturais em uma pequena cidade americana.|0
+6|O Senhor dos Anéis: A Sociedade do Anel|Peter Jackson|2001|Fantasia, Aventura|178|Um hobbit embarca em uma jornada para destruir o Um Anel.|0
+7|La Casa de Papel|Álex Pina|2017|Crime, Drama|N/A|Um grupo de ladrões planeja o maior assalto da história da Espanha.|0
+8|Vingadores: Ultimato|Anthony e Joe Russo|2019|Ação, Ficção Científica|181|Os Vingadores se unem para reverter as ações de Thanos.|0
+9|Coringa|Todd Phillips|2019|Drama, Suspense|122|A origem do vilão mais famoso dos quadrinhos é explorada em detalhes sombrios.|0
+10|Dark|Baran bo Odar|2017|Ficção Científica, Suspense|N/A|Quatro famílias de uma pequena cidade alemã são conectadas por viagem no tempo.|0
+11|Clube da Luta|David Fincher|1999|Drama, Suspense|139|Um homem insatisfeito cria um clube secreto de lutas que foge do controle.|0
+12|Game of Thrones|David Benioff e D. B. Weiss|2011|Fantasia, Drama|N/A|Famílias nobres disputam o controle do Trono de Ferro em Westeros.|0
+13|Matrix|Lana e Lilly Wachowski|1999|Ficção Científica, Ação|136|Um hacker descobre que a realidade é uma simulação criada por máquinas.|0
+14|The Office|Greg Daniels|2005|Comédia|N/A|Funcionários de um escritório vivem situações absurdas no dia a dia.|0
+15|Avatar|James Cameron|2009|Ficção Científica, Aventura|162|Um soldado humano se envolve com os habitantes do planeta Pandora.|0
+16|Peaky Blinders|Steven Knight|2013|Crime, Drama|N/A|Uma família de gangsters domina Birmingham após a Primeira Guerra Mundial.|0
+17|Titanic|James Cameron|1997|Romance, Drama|195|Dois jovens de classes sociais diferentes se apaixonam a bordo do Titanic.|0
+18|The Witcher|Lauren Schmidt Hissrich|2019|Fantasia, Ação|N/A|Um caçador de monstros enfrenta criaturas e conflitos políticos.|0
+19|Pulp Fiction|Quentin Tarantino|1994|Crime, Drama|154|Histórias interligadas mostram o submundo do crime em Los Angeles.|0
+20|Round 6|Hwang Dong-hyuk|2021|Drama, Suspense|N/A|Pessoas endividadas participam de jogos mortais por dinheiro.|0
+21|Homem-Aranha: Sem Volta Para Casa|Jon Watts|2021|Ação, Ficção Científica|148|Peter Parker enfrenta consequências após sua identidade ser revelada.|0
+22|Friends|David Crane e Marta Kauffman|1994|Comédia, Romance|N/A|Seis amigos vivem aventuras e romances em Nova York.|0
+23|Duna|Denis Villeneuve|2021|Ficção Científica, Drama|155|Um jovem herdeiro precisa proteger o planeta mais valioso do universo.|0
+24|Narcos|Chris Brancato|2015|Crime, Drama|N/A|A ascensão e queda de Pablo Escobar e do narcotráfico colombiano.|0
+25|Gladiador|Ridley Scott|2000|Ação, Drama|155|Um general romano busca vingança após perder sua família e posição.|0
+26|Loki|Michael Waldron|2021|Ficção Científica, Aventura|N/A|O deus da trapaça altera linhas do tempo e enfrenta a TVA.|0
+27|Shrek|Andrew Adamson e Vicky Jenson|2001|Animação, Comédia|90|Um ogro embarca em uma aventura para salvar uma princesa.|0
+28|Death Note|Tetsurō Araki|2006|Suspense, Mistério|N/A|Um estudante encontra um caderno capaz de matar qualquer pessoa.|0
+29|O Poderoso Chefão|Francis Ford Coppola|1972|Crime, Drama|175|A poderosa família Corleone controla o crime organizado em Nova York.|0
+30|Arcane|Christian Linke e Alex Yee|2021|Animação, Ação|N/A|Duas irmãs se envolvem em um conflito entre cidades rivais.|0
+31|Whiplash|Damien Chazelle|2014|Drama, Música|106|Um jovem baterista enfrenta um professor extremamente exigente.|0
+32|The Boys|Eric Kripke|2019|Ação, Comédia|N/A|Um grupo tenta derrubar super-heróis corruptos e perigosos.|0
+33|Your Name|Makoto Shinkai|2016|Animação, Romance|106|Dois adolescentes trocam de corpo misteriosamente.|0
+34|Sherlock|Mark Gatiss e Steven Moffat|2010|Mistério, Crime|N/A|Sherlock Holmes resolve casos complexos na Londres moderna.|0
+35|O Rei Leão|Roger Allers e Rob Minkoff|1994|Animação, Drama|88|Um jovem leão precisa assumir seu lugar como rei da savana.|0
+36|The Mandalorian|Jon Favreau|2019|Ficção Científica, Aventura|N/A|Um caçador de recompensas protege uma criança misteriosa na galáxia.|0
+37|Forrest Gump|Robert Zemeckis|1994|Drama, Romance|142|Um homem simples participa de momentos históricos dos Estados Unidos.|0
+38|Attack on Titan|Hajime Isayama|2013|Ação, Fantasia|N/A|Humanos lutam pela sobrevivência contra gigantes devoradores.|0
+39|Django Livre|Quentin Tarantino|2012|Faroeste, Drama|165|Um escravo liberto busca resgatar sua esposa de um fazendeiro cruel.|0
+40|Brooklyn Nine-Nine|Dan Goor e Michael Schur|2013|Comédia, Crime|N/A|Detetives de uma delegacia vivem casos engraçados e inusitados.|0
+41|A Origem|Christopher Nolan|2010|Ficção Científica, Suspense|148|Especialistas invadem sonhos para roubar ou implantar ideias.|0
+42|Black Mirror|Charlie Brooker|2011|Ficção Científica, Drama|N/A|Episódios exploram os perigos da tecnologia na sociedade.|0
+43|Toy Story|John Lasseter|1995|Animação, Aventura|81|Brinquedos ganham vida quando os humanos não estão olhando.|0
+44|The Walking Dead|Frank Darabont|2010|Terror, Drama|N/A|Sobreviventes tentam viver em um mundo dominado por zumbis.|0
+45|O Iluminado|Stanley Kubrick|1980|Terror, Suspense|146|Um escritor enlouquece enquanto cuida de um hotel isolado.|0
+46|One Piece|Eiichiro Oda|1999|Aventura, Fantasia|N/A|Piratas procuram o lendário tesouro One Piece.|1
+47|Homem de Ferro|Jon Favreau|2008|Ação, Ficção Científica|126|Um bilionário cria uma armadura tecnológica para combater o crime.|0
+48|Cobra Kai|Josh Heald, Jon Hurwitz e Hayden Schlossberg|2018|Drama, Ação|N/A|Rivais do karatê revivem antigos conflitos décadas depois.|0
+49|Invencível|Robert Kirkman|2021|Animação, Ação|N/A|Um adolescente desenvolve poderes e descobre segredos sombrios sobre seu pai.|0
+50|The Last of Us|Craig Mazin e Neil Druckmann|2023|Drama, Pós-apocalíptico|N/A|Um homem e uma garota atravessam um mundo devastado por uma infecção.|0
+51|Blade Runner 2049|Denis Villeneuve|2017|Ficção Científica, Drama|164|Um caçador de androides descobre um segredo que ameaça a sociedade.|0
+52|Fullmetal Alchemist: Brotherhood|Yasuhiro Irie|2009|Ação, Fantasia|N/A|Dois irmãos alquimistas buscam recuperar seus corpos perdidos.|0
+53|Batman Begins|Christopher Nolan|2005|Ação, Drama|140|Bruce Wayne inicia sua jornada como Batman.|0
+54|How I Met Your Mother|Carter Bays e Craig Thomas|2005|Comédia, Romance|N/A|Ted Mosby relembra as histórias que o levaram a conhecer a mãe de seus filhos.|0
+55|Harry Potter e a Pedra Filosofal|Chris Columbus|2001|Fantasia, Aventura|152|Um garoto descobre que é um bruxo e vai estudar em Hogwarts.|0
+56|Dexter|James Manos Jr.|2006|Crime, Suspense|N/A|Um perito forense leva uma vida dupla como serial killer.|0
+57|Mad Max: Estrada da Fúria|George Miller|2015|Ação, Ficção Científica|120|Sobreviventes lutam em um mundo pós-apocalíptico desértico.|0
+58|Rick and Morty|Justin Roiland e Dan Harmon|2013|Animação, Ficção Científica|N/A|Um cientista maluco e seu neto vivem aventuras interdimensionais.|0
+59|UP: Altas Aventuras|Pete Docter|2009|Animação, Aventura|96|Um idoso viaja em uma casa presa a balões.|0
+60|Prison Break|Paul Scheuring|2005|Drama, Crime|N/A|Um engenheiro tenta libertar o irmão condenado à morte.|0
+61|O Lobo de Wall Street|Martin Scorsese|2013|Drama, Comédia|180|A ascensão e decadência de um corretor ganancioso em Wall Street.|0
+62|Demon Slayer|Haruo Sotozaki|2019|Ação, Fantasia|N/A|Um jovem caçador de demônios busca curar sua irmã.|0
+63|Se7en|David Fincher|1995|Crime, Suspense|127|Dois detetives investigam assassinatos ligados aos sete pecados capitais.|0
+64|The Flash|Greg Berlanti|2014|Ação, Ficção Científica|N/A|Barry Allen ganha supervelocidade após um acidente.|0
+65|Monstros S.A.|Pete Docter|2001|Animação, Comédia|92|Monstros geram energia assustando crianças.|0
+66|Suits|Aaron Korsh|2011|Drama, Jurídico|N/A|Um jovem brilhante trabalha em um escritório de advocacia sem diploma.|0
+67|John Wick|Chad Stahelski|2014|Ação, Crime|101|Um assassino aposentado busca vingança após perder seu cachorro.|0
+68|Chainsaw Man|Tatsuki Fujimoto|2022|Ação, Terror|N/A|Um jovem faz um pacto demoníaco e ganha poderes de motosserra.|0
+69|O Pianista|Roman Polanski|2002|Drama, Guerra|150|Um pianista judeu luta para sobreviver durante a Segunda Guerra Mundial.|0
+70|Lucifer|Tom Kapinos|2016|Fantasia, Crime|N/A|O Diabo abandona o inferno e passa a ajudar a polícia de Los Angeles.|0
+71|Homem-Aranha no Aranhaverso|Bob Persichetti, Peter Ramsey e Rodney Rothman|2018|Animação, Ação|117|Miles Morales encontra diferentes versões do Homem-Aranha.|0
+72|The Crown|Peter Morgan|2016|Drama, Histórico|N/A|A vida da Rainha Elizabeth II e os eventos da monarquia britânica.|0
+73|O Resgate do Soldado Ryan|Steven Spielberg|1998|Drama, Guerra|169|Soldados americanos tentam salvar um paraquedista na Segunda Guerra.|0
+74|Vikings|Michael Hirst|2013|Drama, Aventura|N/A|Ragnar Lothbrok lidera expedições vikings em busca de glória.|0
+75|Interestelar 2|Christopher Nolan|2028|Ficção Científica, Drama|170|Uma nova missão espacial ameaça alterar o destino da humanidade.|0
+76|Avatar: O Caminho da Água|James Cameron|2022|Ficção Científica, Aventura|192|Jake Sully protege sua família em Pandora.|0
+77|Bleach|Tite Kubo|2004|Ação, Fantasia|N/A|Ichigo Kurosaki se torna um ceifador de almas.|0
+78|Jurassic Park|Steven Spielberg|1993|Aventura, Ficção Científica|127|Dinossauros clonados escapam em um parque temático.|0
+79|House|David Shore|2004|Drama, Médico|N/A|Um médico genial resolve casos raros de doenças.|0
+80|Akira|Katsuhiro Otomo|1988|Animação, Ficção Científica|124|Um jovem desenvolve poderes psíquicos perigosos em Neo-Tóquio.|0
+81|The Sopranos|David Chase|1999|Crime, Drama|N/A|Um mafioso tenta equilibrar família e vida criminosa.|0
+82|O Grande Truque|Christopher Nolan|2006|Drama, Mistério|130|Dois mágicos rivais competem para criar o melhor truque.|0
+83|Supernatural|Eric Kripke|2005|Fantasia, Terror|N/A|Dois irmãos caçam criaturas sobrenaturais pelos EUA.|0
+84|Wall-E|Andrew Stanton|2008|Animação, Ficção Científica|98|Um robô solitário limpa a Terra abandonada pelos humanos.|0
+85|Better Call Saul|Vince Gilligan e Peter Gould|2015|Drama, Crime|N/A|A transformação de Jimmy McGill no advogado Saul Goodman.|0
+86|Pantera Negra|Ryan Coogler|2018|Ação, Ficção Científica|134|O rei de Wakanda protege seu povo e seu legado.|0
+87|Code Geass|Gorō Taniguchi|2006|Ação, Ficção Científica|N/A|Um estudante recebe o poder de controlar pessoas.|0
+88|Clannad|Tatsuya Ishihara|2007|Drama, Romance|N/A|Um estudante problemático muda sua vida após conhecer uma garota misteriosa.|0
+89|O Exterminador do Futuro 2|James Cameron|1991|Ação, Ficção Científica|137|Um ciborgue protege o futuro líder da resistência humana.|0
+90|Modern Family|Christopher Lloyd e Steven Levitan|2009|Comédia|N/A|Famílias diferentes enfrentam situações engraçadas do cotidiano.|0
+91|1917|Sam Mendes|2019|Drama, Guerra|119|Dois soldados precisam entregar uma mensagem vital durante a guerra.|0
+92|Jujutsu Kaisen|Gege Akutami|2020|Ação, Sobrenatural|N/A|Um estudante entra no mundo das maldições e feiticeiros.|0
+93|The Batman|Matt Reeves|2022|Ação, Crime|176|Batman investiga uma série de assassinatos em Gotham.|0
+94|Mr. Robot|Sam Esmail|2015|Drama, Suspense|N/A|Um hacker tenta derrubar grandes corporações financeiras.|0
+95|Divertida Mente|Pete Docter|2015|Animação, Comédia|95|As emoções de uma garota tentam guiá-la durante mudanças difíceis.|0
+96|Sons of Anarchy|Kurt Sutter|2008|Crime, Drama|N/A|Um motoqueiro questiona os rumos do clube criminoso da família.|0
+97|Ready Player One|Steven Spielberg|2018|Ficção Científica, Aventura|140|Jovens competem em um universo virtual por um prêmio valioso.|0
+98|Tokyo Revengers|Ken Wakui|2021|Ação, Drama|N/A|Um jovem volta no tempo para salvar pessoas importantes.|0
+99|O Castelo Animado|Hayao Miyazaki|2004|Fantasia, Romance|119|Uma jovem amaldiçoada encontra abrigo em um castelo mágico.|0
+100|True Detective|Nic Pizzolatto|2014|Crime, Suspense|N/A|Detetives investigam casos sombrios e perturbadores.|0
